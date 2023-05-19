@@ -1,8 +1,8 @@
-### Hi there!
+# Hi there!
 
 ## I'm Android developer
 
-## My skills:
+### My skills:
 Android SDK
 Java, Kotlin
 Git, OOP, SOLID
